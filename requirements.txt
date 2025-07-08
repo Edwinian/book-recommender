@@ -5,6 +5,8 @@ matplotlib
 seaborn
 python-dotenv
 dotenv
+langchain
+sentence-transformers
 langchain-community
 langchain-openai
 langchain-chroma
